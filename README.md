@@ -1,6 +1,8 @@
 # 👋 Hi there, I'm Mehdi Rəfiyev!
 
-I am a **Front-End Engineer** passionate about crafting high-performance and user-friendly web applications. With experience in **JavaScript, React, TypeScript**, I love pushing the boundaries of front-end development while ensuring clean and maintainable code. Currently, I am working as a **Junior Developer at SHI Studio**, where I focus on building responsive and interactive UIs.
+I'm a **Front-End Engineer** passionate about building high-performance, user-friendly web applications. I specialize in **JavaScript, React, TypeScript, and Next.js**, and I enjoy pushing the limits of front-end development while keeping my code clean and maintainable.
+
+Currently, I’m a **Junior Developer at SHI Studio**, where I craft responsive and interactive UIs with complex features that bring ideas to life.
 
 ---
 
